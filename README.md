@@ -11,6 +11,7 @@ This is a dummy price tiers pannel I've made using HTML and CSS.
 <li>Google Fonts</li>
 <li>Pseudo-classes</li>
 <li>Media Queries</li>
+<li>Flex-Box</li>
 <li>other CSS properties</li>
 </ul>
 </li>
